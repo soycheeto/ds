@@ -1,0 +1,5 @@
+sale_id,customer_name,product_name,amount
+1,Alice,widget a,120.0
+2,Bob,widget b,210.0
+4,Charlie,widget d,300.0
+4,Charlie,widget d,300.0
